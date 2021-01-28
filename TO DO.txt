@@ -1,0 +1,2 @@
+Move enchantCommands to a separate JSON 
+intergrate minecraftServer.js 
