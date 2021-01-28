@@ -1,2 +1,3 @@
-Move enchantCommands to a separate JSON 
+Move enchantGem to a separate JSON 
 intergrate minecraftServer.js 
+add more fuctions to echantment list to allow search fuctionality
